@@ -97,16 +97,7 @@
   },
   {
     "ModuleName": "Page1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-06-30T16:28:21.2491939+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Page1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_ユーザーマスターページ",
@@ -134,16 +125,7 @@
   },
   {
     "ModuleName": "70c30736-7f75-4535-8aaa-82f185d976bb",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2022-06-30T16:28:57.7927874+08:00",
-    "ModuleType": 12,
-    "ToRemoveFiles": [
-      "CustomLibraries"
-    ]
+    "ModuleType": 12
   },
   {
     "ModuleName": "a7048ae8-d3c8-4136-ae00-39002dbdc3d8",
