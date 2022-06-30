@@ -97,7 +97,17 @@
   },
   {
     "ModuleName": "Page1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2022-06-30T16:58:05.5947146+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Page1.json",
+      "UserTemplateFile\\WynDemoData-FULL23f41dab510b43909580a62ef48ee0ae.xlsx"
+    ]
   },
   {
     "ModuleName": "FGC_ユーザーマスターページ",
