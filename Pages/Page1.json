@@ -61,6 +61,26 @@
           }
         ]
       }
+    },
+    "7,2": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, Forguncy",
+        "TemplateKey": "_RS_Normal_Style2",
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ]
+      }
     }
   },
   "StyleDatas": {
@@ -86,15 +106,6 @@
       "5,5": 0,
       "5,6": 0,
       "7,2": 0,
-      "7,3": 0,
-      "7,4": 0,
-      "7,5": 0,
-      "7,6": 0,
-      "8,2": 0,
-      "8,3": 0,
-      "8,4": 0,
-      "8,5": 0,
-      "8,6": 0,
       "10,2": 0,
       "10,3": 0,
       "10,4": 0,
@@ -113,8 +124,8 @@
   "Spans": [
     "1,2,2,5",
     "4,2,2,5",
-    "7,2,2,5",
-    "10,2,2,5"
+    "10,2,2,5",
+    "7,2,2,5"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
